@@ -19,4 +19,6 @@ contains a contact form to reach the owner of the site (me).
 
 <br/>
 
+***These html files can be viewed on a browser once installed.***
+
 Final Grade: **99%**
