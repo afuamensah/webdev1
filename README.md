@@ -19,4 +19,4 @@ contains a contact form to reach the owner of the site (me).
 
 <br/>
 
-***This web app can be displayed in a browser once it is in your hands.***
+Final Grade: **99%**
