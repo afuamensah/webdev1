@@ -19,7 +19,7 @@ contains a contact form to reach the owner of the site (me).
 
 <br/>
 
-***These html files can be viewed on a browser once installed.***
+***These html files can be viewed on a browser once cloned/downloaded.***
 
 <br/>
 
